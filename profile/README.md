@@ -19,4 +19,4 @@ We're a Dresden-based engineering company that helps manufacturers plan faster, 
 
 ---
 
-[flexcelerate-solutions.com](https://www.flexcelerate-solutions.com) · 📧 [info@flexcelerate-solutions.com](mailto:info@flexcelerate-solutions.com) · 💼 [LinkedIn](https://www.linkedin.com/company/flexcelerate-solutions)
+[flexcelerate-solutions.com](https://www.flexcelerate-solutions.com) · [info@flexcelerate-solutions.com](mailto:info@flexcelerate-solutions.com) · [LinkedIn](https://www.linkedin.com/company/flexcelerate-solutions)
